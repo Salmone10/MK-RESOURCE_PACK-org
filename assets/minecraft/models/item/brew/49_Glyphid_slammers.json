@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/brew/49_Glyphid_slammers"
+    "layer0": "minecraft:item/brew/49_glyphid_slammers"
   }
 }

@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "entries": [
+            {"threshold": 1002, "model": {"type": "minecraft:model", "model": "minecraft:item/trowels/iron_trowel"}}
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/iron_hoe"
+        }
+    }
+}

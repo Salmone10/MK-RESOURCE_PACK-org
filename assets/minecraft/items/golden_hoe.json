@@ -1,0 +1,13 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "entries": [
+            {"threshold": 1001, "model": {"type": "minecraft:model", "model": "minecraft:item/trowels/golden_trowel"}}
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/golden_hoe"
+        }
+    }
+}

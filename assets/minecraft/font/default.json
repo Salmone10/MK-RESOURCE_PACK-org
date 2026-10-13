@@ -111,6 +111,69 @@
       "ascent": 8,
       "height": 8,
       "chars": ["\uE00F"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/discord.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE010"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/donate.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE011"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/hotmc.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE012"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/max.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE013"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/telegram.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE014"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/tiktok.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE015"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/twitch.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE016"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/wiki.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE017"]
+    },
+  {
+      "type": "bitmap",
+      "file": "minecraft:serverlinks/youtube.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE018"]
     }
   ]
 }

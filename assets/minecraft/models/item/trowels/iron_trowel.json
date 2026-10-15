@@ -2,5 +2,23 @@
   "parent": "minecraft:item/generated",
   "textures": {
     "layer0": "minecraft:item/trowels/iron_trowel"
-  }
+  },
+  "display": {
+		"thirdperson_righthand": {
+			"rotation": [0, -35, 45],
+			"translation": [0, 1.5, 2]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, -35, -45],
+			"translation": [0, 1.5, 2]
+		},
+		"firstperson_righthand": {
+			"rotation": [-28, -39, 50],
+			"translation": [1, 0.75, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-28, -39, -50],
+			"translation": [1, 0.75, 0]
+		}
+	}
 }

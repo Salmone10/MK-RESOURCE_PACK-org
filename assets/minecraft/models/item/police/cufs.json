@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/police/cufs"
+  },
+  "display": {
+		"thirdperson_righthand": {
+			"rotation": [176, 0, 42],
+			"translation": [2.25, 0, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [176, 0, 42],
+			"translation": [2.25, 0, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 128],
+			"translation": [0, -0.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 128],
+			"translation": [0, 0.25, 0]
+		}
+	}
+}

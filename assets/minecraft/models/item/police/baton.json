@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/police/baton"
+  },
+  "display": {
+		"thirdperson_righthand": {
+			"rotation": [3, -90, 47],
+			"translation": [0, 5.75, 1]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [3, 90, -47],
+			"translation": [0, 5.75, 1]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 0, 44],
+			"translation": [0, 5.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, -44],
+			"translation": [0, 5.5, 0]
+		},
+		"ground": {
+			"translation": [0, 2.5, 0]
+		}
+	}
+}

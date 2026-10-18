@@ -5,175 +5,279 @@
       "file": "minecraft:tablist/tablogo.png",
       "ascent": 12,
       "height": 65,
-      "chars": ["\uE000"]
+      "chars": [
+        ""
+      ]
     },
     {
       "type": "bitmap",
       "file": "minecraft:prefix/player.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE001"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/admin.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE002"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/donate_star_communism.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE003"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:tablist/tps.png",
       "ascent": 10,
       "height": 12,
-      "chars": ["\uE004"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:tablist/ping.png",
       "ascent": 10,
       "height": 12,
-      "chars": ["\uE005"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:tablist/time_played.png",
       "ascent": 10,
       "height": 10,
-      "chars": ["\uE006"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:tablist/online_ver1.png",
       "ascent": 10,
       "height": 10,
-      "chars": ["\uE007"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:tablist/online_ver2.png",
       "ascent": 12,
       "height": 12,
-      "chars": ["\uE008"]
+      "chars": [
+        ""
+      ]
     },
-	{
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/support.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE009"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:tablist/rec2.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE00A"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/moderator.png",
       "ascent": 8,
       "height": 10,
-      "chars": ["\uE00B"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/star.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE00C"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/star_gold.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE00D"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/star_platinum.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE00E"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:prefix/builder.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE00F"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/discord.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE010"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/donate.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE011"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/hotmc.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE012"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/max.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE013"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/telegram.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE014"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/tiktok.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE015"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/twitch.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE016"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/wiki.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE017"]
+      "chars": [
+        ""
+      ]
     },
-  {
+    {
       "type": "bitmap",
       "file": "minecraft:serverlinks/youtube.png",
       "ascent": 8,
       "height": 8,
-      "chars": ["\uE018"]
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:prefix/general_chancellor.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:prefix/chancellor.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:prefix/general_bankier.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:prefix/bankier.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:prefix/general_police.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:prefix/police.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
     }
   ]
 }

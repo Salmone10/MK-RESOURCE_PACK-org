@@ -1,16 +1,16 @@
 {
     "pack": {
-        "pack_format": 88,
+        "pack_format": 97.1,
         "description": {
             "text": "Официальный ресурспак МК-4!",
             "color": "gold"
         },
         "min_format": [
-            88,
+            97.1,
             0
         ],
         "max_format": [
-            88,
+            97.1,
             0
         ]
     }

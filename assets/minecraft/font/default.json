@@ -278,6 +278,16 @@
       "chars": [
         ""
       ]
+    },
+        {
+      "type": "bitmap",
+      "file": "minecraft:prefix/president.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        ""
+      ]
     }
+
   ]
 }

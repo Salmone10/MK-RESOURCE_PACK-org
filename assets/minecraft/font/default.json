@@ -2,7 +2,7 @@
   "providers": [
     {
       "type": "bitmap",
-      "file": "minecraft:tablist/tablogo.png",
+      "file": "minecraft:tablist/tablogo(main).png",
       "ascent": 12,
       "height": 65,
       "chars": [

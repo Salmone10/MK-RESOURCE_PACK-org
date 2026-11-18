@@ -28,17 +28,7 @@
     ],
 	"fallback": {
 		"type": "minecraft:model",
-		"model": "minecraft:item/filled_map",
-		"tints": [
-			{
-				"type": "minecraft:constant",
-				"value": -1
-			},
-			{
-				"type": "minecraft:map_color",
-				"default": -6265536
-			}
-		]	
+		"model": "minecraft:item/filled_map"
 	}
 }
 }
